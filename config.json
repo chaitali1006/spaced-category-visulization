@@ -8,19 +8,19 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "Visulization for head categories and sub categories.",
-    "intro": "Visulization for head categories and sub categories ",
-    "title": "Visulization for Categories data"
+    "more": "The nodes are Head category and sub category and egdes are relstionship between them.",
+    "intro": "Spaced Database Head Category/ Sub category",
+    "title": "Spaced Linkdln Database"
   },
   "legend": {
-    "edgeLabel": "Relationship bewtween nodes",
-    "colorLabel": "Red",
-    "nodeLabel": "Category/ Sub Category"
+    "edgeLabel": "Relationship",
+    "colorLabel": "Grey",
+    "nodeLabel": "Head category/ sub category"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
